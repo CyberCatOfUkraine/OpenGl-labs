@@ -1,0 +1,3 @@
+﻿  LR2.cpp
+C:\Users\KOT\source\repos\OpenGl\LR2\LR2.cpp(168,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+  LR2.vcxproj -> C:\Users\KOT\source\repos\OpenGl\Debug\LR2.exe
